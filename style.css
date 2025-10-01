@@ -5,7 +5,22 @@ color:black
 header{
     background-color: white;
     height: 35px;
+margin-left: 20px;
+margin-right: -20px;
+
 }
+
+header h3 { 
+padding-left: 15px;
+color:gray ;
+text-align: center;
+font- size: 30px;;
+
+
+
+
+
+
 
 
 
